@@ -1,0 +1,1000 @@
+Symptom	BodyPart					
+itching	WholeBody					
+skin_rash	WholeBody					
+nodal_skin_eruptions	WholeBody					
+continuous_sneezing	"WholeBody,Head"					
+shivering	WholeBody					
+chills	WholeBody					
+joint_pain	 "Extremeties,WholeBody"					
+stomach_pain	Abdominal					
+acidity	Abdominal					
+ulcers_on_tongue	Head					
+muscle_wasting	"WholeBody,Extremeties"					
+vomiting	"Abdominal,Head,WholeBody"					
+burning_micturition	"Abdominal,WholeBody,WasteExtractionOrgans"					
+spotting_urination	"Abdominal,WholeBody,WasteExtractionOrgans"					
+fatigue	WholeBody					
+weight_gain	WholeBody					
+anxiety	WholeBody					
+cold_hands_and_feets	"WholeBody,Extremeties"					
+mood_swings	"WholeBody,Head"					
+weight_loss	WholeBody					
+restlessness	WholeBody					
+lethargy	WholeBody					
+patches_in_throat	"WholeBody,Chest,Head"					
+irregular_sugar_level	WholeBody					
+cough	"WholeBody,Head,Chest"					
+high_fever	"WholeBody,Head"					
+sunken_eyes	Head					
+breathlessness	"Head,Chest,WholeBody"					
+sweating	WholeBody					
+dehydration	WholeBody					
+indigestion	Abdominal					
+headache	Head					
+yellowish_skin	WholeBody					
+dark_urine	WasteExtractionOrgans					
+nausea	"WholeBody,Head,Abdominal"					
+loss_of_appetite	"WholeBody,Abdominal"					
+pain_behind_the_eyes	Head					
+back_pain	WholeBody					
+constipation	Abdominal					
+abdominal_pain	Abdominal					
+diarrhoea	"Abdominal,WasteExtractionOrgans"					
+mild_fever	"WholeBody,Head"					
+yellow_urine	WasteExtractionOrgans					
+yellowing_of_eyes	Head					
+acute_liver_failure	"WholeBody,Head,Chest"					
+fluid_overload	"WholeBody,Chest"					
+swelling_of_stomach	Abdominal					
+swelled_lymph_nodes	Head					
+malaise	WholeBody					
+blurred_and_distorted_vision	Head					
+phlegm	"Head,Chest"					
+throat_irritation	"Head,Chest"					
+redness_of_eyes	Head					
+sinus_pressure	Head					
+runny_nose	Head					
+congestion	"Abdominal,WasteExtractionOrgans"					
+chest_pain	Chest					
+weakness_in_limbs	Extremeties					
+fast_heart_rate	"Chest,WholeBody"					
+pain_during_bowel_movements	"Abdominal,WasteExtractionOrgans"					
+pain_in_anal_region	"Abdominal,WasteExtractionOrgans"					
+bloody_stool	"Abdominal,WasteExtractionOrgans"					
+irritation_in_anus	"Abdominal,WasteExtractionOrgans"					
+neck_pain	"Head,Chest"					
+dizziness	"Head,WholeBody"					
+cramps	"WholeBody,Extremeties"					
+bruising	"WholeBody,Extremeties,Head"					
+obesity	WholeBody					
+swollen_legs	"WholeBody,Extremeties"					
+swollen_blood_vessels	"WholeBody,Extremeties,Head,Chest"					
+puffy_face_and_eyes	Head					
+enlarged_thyroid	"Head,Chest"					
+brittle_nails	Extremeties					
+swollen_extremeties	Extremeties					
+excessive_hunger	"Abdominal,WholeBody"					
+extra_marital_contacts	"WholeBody,WasteExtractionOrgans"					
+drying_and_tingling_lips	Head					
+slurred_speech	"Head,WholeBody"					
+knee_pain	Extremeties					
+hip_joint_pain	"Extremeties,WholeBody,WasteExtractionOrgans"					
+muscle_weakness	"WholeBody,Extremeties"					
+stiff_neck	"Head,Chest"					
+swelling_joints	"WholeBody,Extremeties"					
+movement_stiffness	"WholeBody,Extremeties"					
+spinning_movements	"WholeBody,Head"					
+loss_of_balance	"WholeBody,Extremeties"					
+unsteadiness	"WholeBody,Extremeties"					
+weakness_of_one_body_side	"WholeBody,Extremeties,Abdominal,Chest"					
+loss_of_smell	Head					
+bladder_discomfort	WasteExtractionOrgans					
+foul_smell_ofurine	WasteExtractionOrgans					
+continuous_feel_of_urine	WasteExtractionOrgans					
+passage_of_gases	WasteExtractionOrgans					
+internal_itching	WholeBody					
+toxic_look_(typhos)	WholeBody					
+depression	WholeBody					
+irritability	WholeBody					
+muscle_pain	"WholeBody,Extremeties"					
+altered_sensorium	"WholeBody,Head"					
+red_spots_over_body	"WholeBody,Extremeties"					
+belly_pain	Abdominal					
+abnormal_menstruation	WasteExtractionOrgans					
+dischromic_patches	"WholeBody,Extremeties,Head,Chest,Abdominal"					
+watering_from_eyes	Head					
+increased_appetite	"WholeBody,Abdominal,Head"					
+polyuria	"Abdominal,WasteExtractionOrgans"					
+family_history	WholeBody					
+mucoid_sputum	"Head,WholeBody,Chest"					
+rusty_sputum	"Head,WholeBody,Chest"					
+lack_of_concentration	"Head,WholeBody"					
+visual_disturbances	Head					
+receiving_blood_transfusion	Wholebody					
+receiving_unsterile_injections	Wholebody					
+coma	"Wholebody,Head"					
+stomach_bleeding	"Wholebody,Head,Abdominal"					
+distention_of_abdomen	"Abdominal,Chest,WholeBody"					
+history_of_alcohol_consumption	"Head,WholeBody,Abdominal"					
+fluid_overload	"WholeBody,Chest,Extremeties"					
+blood_in_sputum	"WholeBody,Chest,Head"					
+prominent_veins_on_calf	Extremeties					
+palpitations	WholeBody					
+painful_walking	"WholeBody,Extremeties"					
+pus_filled_pimples	WholeBody					
+blackheads	WholeBody					
+scurring	WholeBody					
+skin_peeling	WholeBody					
+silver_like_dusting	WholeBody					
+small_dents_in_nails	"WholeBody,Extremeties"					
+inflammatory_nails	"WholeBody,Extremeties"					
+blister	WholeBody					
+red_sore_around_nose	Head					
+yellow_crust_ooze	WholeBody					
+prognosis	WholeBody					
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
