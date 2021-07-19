@@ -124,12 +124,12 @@ GoogleApiClient.ConnectionCallbacks, GoogleApiClient.OnConnectionFailedListener,
         googlePlacesUrl.append("&radius="+5000);
         googlePlacesUrl.append("&type="+placetype);
         googlePlacesUrl.append("&sensor=true");
-        googlePlacesUrl.append("&key=AIzaSyBD05CifKH9Nmn9NUsC-YcEpfoDFZ_ixt8");
+        //append key here. confidential googlePlacesUrl.append("&key=");
+        //
 
         Log.d("geturl",googlePlacesUrl.toString());
 
-        //return "https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=31.24637214837778,%2029.972447246032953&radius=10000&type=hospital&sensor=true&key=AIzaSyBD05CifKH9Nmn9NUsC-YcEpfoDFZ_ixt8";
-
+      
         return googlePlacesUrl.toString();
 
     }
